@@ -4,7 +4,7 @@ Welcome to **GreenDen**, a clean and modern frontend project designed using **Ta
 
 ## 🚀 Live Demo
 
-👉 [View Live Site](https://yourusername.github.io/greenden-project/)  
+👉 [View Live Site](https://praveenkumar1434.github.io/Greenden_project/) 
 *(Replace with your actual GitHub Pages link)*
 
 ---
